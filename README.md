@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmaxjo
+- 👋 Hi, I’m @ TC
 - 👀 I’m interested in Game Design
 - 🌱 I’m currently learning machine learning, Unity, Blender, C#
 - 💞️ I’m looking to collaborate on design a new game.
